@@ -3,3 +3,4 @@ some text
 123
 321
 test
+3. Новое из ветки feature3
